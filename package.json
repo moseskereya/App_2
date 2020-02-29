@@ -2,7 +2,7 @@
   "name": "words",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://moseskereya.github.io/New-World-App",
+  "homepage": "https://moseskereya.github.io/App_2",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
