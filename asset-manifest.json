@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/New-World-App/static/css/main.4c5c5e08.chunk.css",
-    "main.js": "/New-World-App/static/js/main.80cbb684.chunk.js",
-    "main.js.map": "/New-World-App/static/js/main.80cbb684.chunk.js.map",
-    "runtime-main.js": "/New-World-App/static/js/runtime-main.1a97497e.js",
-    "runtime-main.js.map": "/New-World-App/static/js/runtime-main.1a97497e.js.map",
-    "static/css/2.38a4df54.chunk.css": "/New-World-App/static/css/2.38a4df54.chunk.css",
-    "static/js/2.43457eaf.chunk.js": "/New-World-App/static/js/2.43457eaf.chunk.js",
-    "static/js/2.43457eaf.chunk.js.map": "/New-World-App/static/js/2.43457eaf.chunk.js.map",
-    "index.html": "/New-World-App/index.html",
-    "precache-manifest.05e18f627c240e1ed04b89273069e6c1.js": "/New-World-App/precache-manifest.05e18f627c240e1ed04b89273069e6c1.js",
-    "service-worker.js": "/New-World-App/service-worker.js",
-    "static/css/2.38a4df54.chunk.css.map": "/New-World-App/static/css/2.38a4df54.chunk.css.map",
-    "static/css/main.4c5c5e08.chunk.css.map": "/New-World-App/static/css/main.4c5c5e08.chunk.css.map",
-    "static/js/2.43457eaf.chunk.js.LICENSE.txt": "/New-World-App/static/js/2.43457eaf.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/New-World-App/static/media/revicons.2feb69cc.eot",
-    "static/media/App.css": "/New-World-App/static/media/study.eb93bdbf.jpg"
+    "main.css": "/App_2/static/css/main.0ec183ad.chunk.css",
+    "main.js": "/App_2/static/js/main.09cffc93.chunk.js",
+    "main.js.map": "/App_2/static/js/main.09cffc93.chunk.js.map",
+    "runtime-main.js": "/App_2/static/js/runtime-main.e82df7ce.js",
+    "runtime-main.js.map": "/App_2/static/js/runtime-main.e82df7ce.js.map",
+    "static/css/2.bf1588ba.chunk.css": "/App_2/static/css/2.bf1588ba.chunk.css",
+    "static/js/2.43457eaf.chunk.js": "/App_2/static/js/2.43457eaf.chunk.js",
+    "static/js/2.43457eaf.chunk.js.map": "/App_2/static/js/2.43457eaf.chunk.js.map",
+    "index.html": "/App_2/index.html",
+    "precache-manifest.8f33d6797c070f5c22b3bd360b5f0637.js": "/App_2/precache-manifest.8f33d6797c070f5c22b3bd360b5f0637.js",
+    "service-worker.js": "/App_2/service-worker.js",
+    "static/css/2.bf1588ba.chunk.css.map": "/App_2/static/css/2.bf1588ba.chunk.css.map",
+    "static/css/main.0ec183ad.chunk.css.map": "/App_2/static/css/main.0ec183ad.chunk.css.map",
+    "static/js/2.43457eaf.chunk.js.LICENSE.txt": "/App_2/static/js/2.43457eaf.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/App_2/static/media/revicons.2feb69cc.eot",
+    "static/media/App.css": "/App_2/static/media/study.eb93bdbf.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a97497e.js",
-    "static/css/2.38a4df54.chunk.css",
+    "static/js/runtime-main.e82df7ce.js",
+    "static/css/2.bf1588ba.chunk.css",
     "static/js/2.43457eaf.chunk.js",
-    "static/css/main.4c5c5e08.chunk.css",
-    "static/js/main.80cbb684.chunk.js"
+    "static/css/main.0ec183ad.chunk.css",
+    "static/js/main.09cffc93.chunk.js"
   ]
 }
